@@ -20,9 +20,11 @@
 **Languages:**  
 - C  
 - Python  
-- Java  
+- Core Java  
 - HTML  
-- CSS  
+- CSS
+- JavaScript
+- Oracle SQL
 
 **Developer Tools & Technologies:**  
 - Git & GitHub  
@@ -31,7 +33,8 @@
 - MySQL  
 
 **Platforms:**  
-- Windows  
+- Windows
+- Ubuntu  
 
 ---
 
