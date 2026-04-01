@@ -94,6 +94,7 @@
 - 📧 Email: **kumarajith19647@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/ajith-kumar-bs-a70859335](https://linkedin.com/in/ajith-kumar-bs-a70859335)  
 - 🧑‍💻 GitHub: [github.com/ajithreddy-max](https://github.com/ajithreddy-max)
+- Portfolio: [(https://ajithreddy-max.github.io/Portfolio/)
 
 ---
 
