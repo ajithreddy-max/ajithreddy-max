@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 
 - 👨‍🎓 Bachelor of Engineering (CSE) | CGPA: **8.7**  
-- 💡 Interested in **Web Development, Data Analytics & Cyber Security**  
+- 💡 Interested in **Web Development, Core Java **  
 - 🔭 Worked on projects like **Doctor Appointment Booking App** and **AI-based Weather Forecasting System**  
 - 🎯 Goal: To grow as a professional software engineer and contribute value to an organization  
 
@@ -17,20 +17,25 @@
 
 ## 🛠️ Technical Skills  
 
-**Languages:**  
+**Programming Languages:**  
 - C  
 - Python  
 - Core Java  
-- HTML  
-- CSS
 - JavaScript
-- Oracle SQL
 
-**Developer Tools & Technologies:**  
-- Git & GitHub  
-- VS Code  
-- MongoDB  
-- MySQL  
+**Web Technologies**
+- HTML
+- CSS
+**Developer Tools**  
+- Git (Version Control)
+- GitHub (Code Hosting & Collaboration)
+- Visual Studio Code (Code Editor)
+- Eclipse
+
+**Developer Technologies**
+- MongoDB (NoSQL Database)
+- MySQL (Relational Database)
+- REST APIs (Client-Server Communication)
 
 **Platforms:**  
 - Windows
