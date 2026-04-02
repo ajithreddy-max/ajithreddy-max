@@ -26,6 +26,7 @@
 **Web Technologies**
 - HTML
 - CSS
+
 **Developer Tools**  
 - Git (Version Control)
 - GitHub (Code Hosting & Collaboration)
