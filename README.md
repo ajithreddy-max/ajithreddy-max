@@ -32,6 +32,9 @@
 - GitHub (Code Hosting & Collaboration)
 - Visual Studio Code (Code Editor)
 - Eclipse
+- Cursor
+- Qoder
+- Claude AI
 
 **Developer Technologies**
 - MongoDB (NoSQL Database)
