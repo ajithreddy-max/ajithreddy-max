@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 
-- 👨‍🎓 Bachelor of Engineering (CSE) | CGPA: **8.7**  
+- 👨‍🎓 Bachelor of Engineering (CSE) | CGPA: **8.88**  
 - 💡 Interested in **🌐 Web Development, 💻 Software Engineer, 🎨 Frontend Developer, 🔐 Database Developer (SQL),
   ⚙️ Backend Developer**  
 - 🔭 Worked on projects like **Doctor Appointment Booking App** and **AI-based Weather Forecasting System**  
