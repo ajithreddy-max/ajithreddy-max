@@ -40,6 +40,8 @@
 **Developer Technologies**
 - MongoDB (NoSQL Database)
 - MySQL (Relational Database)
+- Postgre SQL
+- Oracle SQL
 - REST APIs (Client-Server Communication)
 
 **Platforms:**  
