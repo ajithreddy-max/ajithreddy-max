@@ -9,9 +9,9 @@
 ## 🚀 About Me  
 
 - 👨‍🎓 Bachelor of Engineering (CSE) | CGPA: **8.88**  
-- 💡 Interested in **🌐 Web Development, 💻 Software Engineer, 🎨 Frontend Developer, 🔐 Database Developer (SQL),
+- 💡 Interested in **🌐 Web Development, 💻 Software Engineer, 🎨 Frontend Developer, 🔐 Database Developer (SQL,MONGODB),
   ⚙️ Backend Developer**  
-- 🔭 Worked on projects like **Doctor Appointment Booking App** and **AI-based Weather Forecasting System**  
+- 🔭 Worked on projects like **Doctor Appointment Booking App** and **Social Media Application**  
 - 🎯 Goal: To grow as a professional software engineer and contribute value to an organization  
 
 ---
